@@ -1,0 +1,2 @@
+# ConfigCollect
+collect common config
